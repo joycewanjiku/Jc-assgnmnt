@@ -1,0 +1,63 @@
+body
+.nav  {
+    list-style: none;
+    display: flex;
+    
+    
+}
+    .home{
+display: flex;
+    }
+
+.navb{
+    background-image :url('chair.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 150px;
+    display: flex;
+
+    
+
+
+}
+.navbar{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    float: left;
+}
+#seat{
+float: none;
+    margin-top: 5%; 
+    height: 400px;
+    float: right;
+    margin-top: -18%;
+    margin-right;17%: 
+
+
+}
+.fa{
+margin-top:;
+margin-right: auto;
+}
+#grey{
+    margin-right: 5%;
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin-bottom: -18%;
+    margin-left: 18%;
+}
+.class{
+    display: flex;
+}
+.set{
+    display: flex;
+}
+#seat{
+    display: flex;
+}
+.footer{
+    display: flex;
+}
