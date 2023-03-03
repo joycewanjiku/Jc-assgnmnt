@@ -1,42 +1,111 @@
-body
-.nav  {
-    list-style: none;
-    display: flex;
-    
-    
-}
-    .home{
-display: flex;
+ .container1{
+
+/* height: 400px; */
     }
 
 .navb{
-    background-image :url('chair.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100px;
-    height: 150px;
-    display: flex;
+    
 
+}
+    
+
+.navb a{
+    margin: 40px;
+    padding-left: 20px;
+}
+.cont{
+    display: flex;
+    height: 400px;
+    padding-bottom: 50px;
+}
+.para{
+    width: 40%;
+    margin-left: 7%;
+}
+.chair2{
+    margin-left: 100px;
+    height: 400px;
+    width: 60%;
+    background-color: grey;
+    padding-bottom: 60px;
+
+    
+}
+#chair{
+    width: 300px;
+    height: 400px;
+}
+    
+/* .fonk{
+   width: 50%;
+   height:50% ;  */
+
+/* #bejot img{
+    width: 140%;
+    height:100px ;
+}
+#bed img{
+    width: 150%;
+    height:100px ;
+}
+#coffee img{
+    width: 60%;
+    height: 100px;
+
+}
+#fonk img{
+   width: 70%;
+   height: 100px; 
+} */
+.new{
+    text-align: center;
+    margin-top: 5%;
+    color:black;
+    font-size: 45px;
+
+}
+.dis{
+    background-color:black;
+    color: white;
+    text-align: center;
+    color:white;
+    padding: 15px;
+
+
+}
+
+.seat{
+
+    display: flex
     
 
 
 }
-.navbar{
-    list-style: none;
+#pen{
+    width: 80%;
+    height:90%;
+}
+
+    #cha{
+        width: 90%;
+        height: 100%;
+    
+
+}
+.pillows{
     display: flex;
-    gap: 50px;
-    float: left;
+
 }
-#seat{
-float: none;
-    margin-top: 5%; 
-    height: 400px;
-    float: right;
-    margin-top: -18%;
-    margin-right;17%: 
+#pillow{
+    height: 80%;
+    width: 80%;
 
 
 }
+.mag{
+    display: flex;
+}
+
 .fa{
 margin-top:;
 margin-right: auto;
@@ -54,10 +123,221 @@ margin-right: auto;
 }
 .set{
     display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
 }
-#seat{
+#seath{
     display: flex;
 }
 .footer{
     display: flex;
 }
+#seat{
+    display: flex;
+}
+.footer{
+    list-style: none;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.parag{
+    list-style: none;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    border-radius: 5px;
+    background-color: black;
+    border: solid white;
+    width: 60px;
+    height:30px;
+    color:white;
+    border-top: black;
+    border-left: black;
+    border-right: black;
+}
+body{
+    font-family:'Quicksand', sans-serif;
+    font-size: large;
+}
+.p1{
+    height: 900px;
+    
+
+}
+.q2{
+    height: 500px;
+}
+.q1{
+    height: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
